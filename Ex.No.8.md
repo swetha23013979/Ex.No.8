@@ -29,13 +29,8 @@ So, instead of displaying the matching lines on the screen, this command redirec
 specified file. If you examine the contents of search.txt, you’ll find the same informa on as 
 displayed by the ini al grep command.
 
-
 # Output:
-
-
 ![image](https://github.com/user-attachments/assets/36643243-54fe-4ff9-8ad9-399c1514c1c0)
-
-
 # Result:
 
 Thus a Repository has been created successfully.
